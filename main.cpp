@@ -13,6 +13,7 @@ int main(){
         zt = false;
     }
 
+
     //freopen("CON", "w", stdout);//win
     //freopen("/dev/tty", "w", stdout);//linux
     if(zt){
