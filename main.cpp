@@ -16,7 +16,7 @@ int main(){
     //freopen("CON", "w", stdout);//win
     //freopen("/dev/tty", "w", stdout);//linux
     if(zt){
-        
+        printf("是否继续之前进度,1或0:");
     }  else {
 
 
